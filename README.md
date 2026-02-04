@@ -1,6 +1,6 @@
 ## Hi, I’m Pratik Sanap 👋  
 
-Third-year **B.E. Information Technology** student and **Software Developer Intern candidate** with hands-on experience in **MERN stack development** and AI-based web applications.  
+Third-year **B.E. Information Technology** student and **Aspiring Software Developer ** with hands-on experience in **MERN stack development** and AI-based web applications.  
 Currently strengthening **Data Structures & Algorithms** while building real-world full-stack projects.
 
 ---
