@@ -30,7 +30,7 @@ Currently strengthening **Data Structures & Algorithms** while building real-wor
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 ### 🔹 RankMyCV – AI-Based Resume Ranking Web App
 An AI-powered resume ranking platform built using the **MERN stack**.  
 - LLM-based resume–job matching with skill and keyword scoring  
@@ -38,6 +38,16 @@ An AI-powered resume ranking platform built using the **MERN stack**.
 - CSV / PDF export functionality  
 
 🔗 **Repository:** https://github.com/Pratiksanap49/RankMyCV
+
+
+
+### 🔹**CodeInsight – Intelligent Code Learning Analytics Platform**
+A full-stack diagnostic platform that analyzes student code to detect conceptual misconceptions, not just pass/fail results.
+- AST-based static analysis engine (Babel) to detect 8 cognitive coding misconceptions (e.g., missing return, off-by-one, async misuse) with explainable rule logic
+- Secure sandboxed code execution using Node.js VM with timeout protection and automated test evaluation
+- Analytics dashboard tracking misconception frequency, resolution status, and learning progress over time, with ML-based confidence scoring via Python microservice
+
+🔗 **Repository:** https://github.com/Pratiksanap49/CodeInsight
 
 ---
 
