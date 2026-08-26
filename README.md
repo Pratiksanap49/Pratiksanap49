@@ -41,13 +41,14 @@ An AI-powered resume ranking platform built using the **MERN stack**.
 
 
 
-### 🔹**CodeInsight – Intelligent Code Learning Analytics Platform**
+### 🔹**PrepMind.ai - Interview Preparation Platform**
 A full-stack diagnostic platform that analyzes student code to detect conceptual misconceptions, not just pass/fail results.
-- AST-based static analysis engine (Babel) to detect 8 cognitive coding misconceptions (e.g., missing return, off-by-one, async misuse) with explainable rule logic
-- Secure sandboxed code execution using Node.js VM with timeout protection and automated test evaluation
-- Analytics dashboard tracking misconception frequency, resolution status, and learning progress over time, with ML-based confidence scoring via Python microservice
+- Engineered an LLM-powered interview platform integrating Groq (Llama 3) and prompt engineering to generate 5–15 personalized interview questions per session based on candidate roles, skills, and difficulty levels.
+- Designed an end-to-end interview workflow supporting 3 difficulty levels, prompt engineering, response parsing, and persistent MongoDB session tracking.
+- Developed a responsive React and Tailwind CSS frontend with secure JWT authentication, featuring an AI
+evaluation engine that grades candidate responses instantly
 
-🔗 **Repository:** https://github.com/Pratiksanap49/CodeInsight
+🔗 **Repository:** https://github.com/Pratiksanap49/PrepMind.ai
 
 ---
 
